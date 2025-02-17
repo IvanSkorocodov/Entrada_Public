@@ -1,2 +1,2 @@
 # Entrada_Public
-Entrada but for public audience
+Esboço para abrir a porta da frente para o público.
